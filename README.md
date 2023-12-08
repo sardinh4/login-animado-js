@@ -3,13 +3,13 @@
 
 - Bem-vindo ao repositório da Página de Login Animada! Esta é a página web foi desenvolvida utilizando HTML, CSS e JS.
 
-- 🛠️ Tecnologias Utilizadas:
+🛠️ Tecnologias Utilizadas:
 
 - HTML
 - CSS
 - JS
 
-- 📂 Estrutura do Repositório:
+📂 Estrutura do Repositório:
 
 - index.html: Página principal do site do Curso de Design e Desenvolvimento Web.
 - css/ styles.css: Estilos CSS para proporcionar um design atraente.
@@ -18,7 +18,7 @@
 - README.md: Documentação com as informações sobre o projeto.
 - LICENSE: licença.
 
--O Projeto foi desenvolvido com base no vídeo do youtube "How To Create A Website using HTML & CSS | Step-by-Step Tutorial - PRAROZ"
+- O Projeto foi desenvolvido com base no vídeo do youtube "How To Create A Website using HTML & CSS | Step-by-Step Tutorial - PRAROZ"
 
 🔗 Link do Vídeo:
 
@@ -26,4 +26,4 @@
 
 🔗 Link da Demo da Página:
 
-- https://sardinh4.github.io/Pagina-de-Venda-para-Curso-de-Design-e-Desenvolvimento-Web/
+- https://www.youtube.com/watch?v=H8ThscWsQV8
