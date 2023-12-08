@@ -1,19 +1,17 @@
 # Pagina-de-Login-Animada
 - Page de Login animada e responsiva usando HTML, CSS e JS.
 
-- Bem-vindo ao repositório da Página de Login Animada! Esta é a página web foi desenvolvida utilizando HTML, CSS e JS.
+- Bem-vindo ao repositório da Página de Login Animada! Esta é a página web foi desenvolvida utilizando HTML e CSS.
 
 🛠️ Tecnologias Utilizadas:
 
 - HTML
 - CSS
-- JS
 
 📂 Estrutura do Repositório:
 
 - index.html: Página principal do site do Curso de Design e Desenvolvimento Web.
 - css/ styles.css: Estilos CSS para proporcionar um design atraente.
-- js/ script.js
 - img/: Diretório contendo as imagens do site.
 - README.md: Documentação com as informações sobre o projeto.
 - LICENSE: licença.
