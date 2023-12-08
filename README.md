@@ -1,5 +1,5 @@
 # Pagina-de-Login-Animada
-- Page de Login animada usando HTML, CSS e JS.
+- Page de Login animada e responsiva usando HTML, CSS e JS.
 
 - Bem-vindo ao repositório da Página de Login Animada! Esta é a página web foi desenvolvida utilizando HTML, CSS e JS.
 
