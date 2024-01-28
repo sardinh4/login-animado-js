@@ -24,4 +24,4 @@
 
 🔗 Link da Demo da Página:
 
-- https://sardinh4.github.io/Pagina-de-Login-Animada/
+- https://sardinh4.github.io/login-animado-js/
